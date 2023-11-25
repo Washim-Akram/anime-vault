@@ -4,7 +4,7 @@ Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Mot
 
 ## Live Link
 
-Hosted in Vercel -> https://vercel.app
+Hosted in Vercel -> https://anime-vault-two.vercel.app/
 
 ## Best features of our project
 
